@@ -64,7 +64,7 @@ nbconvert (exportación a HTML)
 
 🚀 Cómo ejecutar el Notebook
 1️⃣ Clona o descarga el repositorio
-git clone https://github.com/TU_USUARIO/TU_REPO.git
+git clone (https://github.com/MateoRosero/K-Means-Clustering)
 
 2️⃣ Abre el notebook
 
