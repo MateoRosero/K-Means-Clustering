@@ -104,6 +104,7 @@ Cluster 1 – Clientes Inactivos
 Mucho tiempo sin comprar, baja frecuencia y bajo gasto.
 
 🧪 Bonus
+
 ✔ Clustering Jerárquico (Agglomerative)
 
 K-Means obtiene mejor Silhouette Score y clusters más compactos.
